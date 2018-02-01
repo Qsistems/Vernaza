@@ -1,0 +1,147 @@
+.digitbutton {
+	background: url("../images/btn_0.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 154px 85px;
+	padding-top: 1px;
+	width: 80px; /*60px;*/
+	height: 85px; /*40px;*/
+	border: 0px solid #0A021F;
+	border-radius: 1px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 40pt;
+}
+
+.digitbuttonabc {
+	background: url("../images/btn_0.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 154px 60px;
+	padding-top: 3px;
+	width: 35px;
+	height: 35px;
+	border: 0px solid #BBBBBB;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 14pt;
+}
+
+.delbuttonc {
+	background: url("../images/btn_backspace.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 154px 85px;
+	padding-top: 3px;
+	width: 100%;
+	height: 100%;
+	border: 0px solid #BBBBBB;
+	border-radius: 3px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 12pt;
+}
+
+.delbuttonbackspace {
+	background: url("../images/btn_backspace.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 90px 60px;
+	padding-top: 3px;
+	width: 100%;
+	height: 100%;
+	border: 0px solid #BBBBBB;
+	border-radius: 3px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 12pt;
+}
+
+.delbuttonabc {
+	background: url("../images/btn_0.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 180px 60px;
+	padding-top: 3px;
+	width: 100%;
+	height: 100%;
+	border: 0px solid #BBBBBB;
+	border-radius: 3px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 16pt;
+}
+
+.delbutton {
+	width: 90%;
+	height: 90%;
+	background-color: #0055A5;
+	background-size: 90%;
+	padding-top: 3px;
+	width: 80px;
+	height: 70px;
+	border: 0px solid #BBBBB;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px; ';
+	font-size: 16pt;
+	color: #FFF;
+}
+
+.enterbutton {
+	background: url("../images/btn_0.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: 154px 265px;
+	padding-top: 3px;
+	width: 100%;
+	height: 100%;
+	border: 0px solid #0A021F;
+	border-radius: 3px;
+	color: #0B3861;
+	text-align: center;
+	font-size: 14pt;
+}
+
+td {
+	text-align: center;
+	height: 20px;
+}
+
+button {
+	font-family: Arial;
+	font-size: 28pt;
+	font-weight: bold;
+	color: #BBBBB;
+}
+
+#valuefield {
+	width: 80%;
+	font-size: 20pt;
+	font-family: Courier New;
+	border: 1px solid #BBBBBB;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	color: #0055A5;
+}
+
+#keypadtable {
+	width: 40%;
+	height: 40%;
+	color: #0055A5;
+	font-weight: bold;
+}
+
+.body_css {
+	padding-left: 20px;
+}

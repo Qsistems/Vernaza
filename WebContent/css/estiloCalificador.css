@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29-dic-2014, 12:34:35
+    Author     : Administrador
+*/
+
+body {
+    padding-top: 5em;
+  padding-left: 5em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+  background-color: white;
+//background: url(photo.jpg) no-repeat center center fixed; 
+  //-webkit-background-size: cover;
+  //-moz-background-size: cover;
+  //-o-background-size: cover;
+  //background-size: cover;
+}
+input[type=submit] {
+    width: 600px;
+    
+  background: #56c76c;
+  background-image: -webkit-linear-gradient(top, #56c76c, #007031);
+  background-image: -moz-linear-gradient(top, #56c76c, #007031);
+  background-image: -ms-linear-gradient(top, #56c76c, #007031);
+  background-image: -o-linear-gradient(top, #56c76c, #007031);
+  background-image: linear-gradient(to bottom, #56c76c, #007031);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 4px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 14px 29px 23px 30px;
+  border: solid #56c76c 0px;
+  text-decoration: none;
+    
+  margin-bottom:15px;
+  margin-top: 10px;
+  
+}
+
+input[type=submit]:hover {
+   background: #98f09d;
+  background-image: -webkit-linear-gradient(top, #98f09d, #07db38);
+  background-image: -moz-linear-gradient(top, #98f09d, #07db38);
+  background-image: -ms-linear-gradient(top, #98f09d, #07db38);
+  background-image: -o-linear-gradient(top, #98f09d, #07db38);
+  background-image: linear-gradient(to bottom, #98f09d, #07db38);
+  text-decoration: none;
+  -webkit-transition: .5s all;
+	-moz-transition: .5s all;
+	-o-transition: .5s all;
+	-ms-transition: .5s all;
+	transition: .5s all;
+}
+img{
+    margin-bottom:15px;
+  margin-top: 10px;
+}
+h3{
+    margin-bottom:15px;
+  margin-top: 10px;
+}
+@media all and (max-width: 420px) {
+  img, aside {
+    float: none;
+    width: auto;
+  }
+}
